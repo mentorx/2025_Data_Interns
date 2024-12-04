@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 11-19_
+_Last updated: 12-03_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Global Channel Operations Analyst Intern Summer 2025 Internship](https://www.indeed.com/viewjob?jk=0b563157e0f7a2a2&tk=1ie7k0cb3i9ep848&from=serp&vjs=3) | Motorola Solutions | Chicago, IL 60661 | Data analysis, Program management, Documentation management, Communication, Problem-solving | 12-03 | <!-- JobID: iO47lX8TQJ -->
+| [Data Analyst Intern – Summer 2025](https://www.indeed.com/viewjob?jk=64117451e2d60898&tk=1ie7h6kqhljdl80u&from=serp&vjs=3) | Kemper | Chicago, IL 60601 (The Loop area) | Data Analysis, SQL, Data Validation, Data Quality Assurance, Analytical Skills, Communication Skills, Time Management, Teamwork, Cloud Databases, Data Mapping | 12-03 | <!-- JobID: b0trTiPU9C -->
+| [Pricing Analyst Intern - Summer 2025](https://www.indeed.com/viewjob?jk=8233ac489e944a2a&tk=1ie7h6kqhljdl80u&from=serp&vjs=3) | Oshkosh AeroTech | Orlando, FL 32809 | Data analysis, MS Excel, Financial statement interpretation, Collaboration, Data collection | 12-03 | <!-- JobID: 1SJuEO31hK -->
 | [CSAA Insurance Group - Product Strategy & Analytics Intern - Summer 2025, application via RippleMatch](https://www.indeed.com/viewjob?jk=12b86e9d18f8352f&tk=1icugtdmqg3668a8&from=serp&vjs=3) | RippleMatch Opportunities | Remote in Glendale, AZ | Statistical analysis, Data visualization, Analytical tools, SAS, SQL, Statistical programming languages, Communication skills, Coding, Attention to detail, Self-motivation | 11-17 | <!-- JobID: dYbquXNQCz -->
 | [2025 Championship Marketing Internship](https://www.indeed.com/viewjob?jk=3fed8c5b7cc278c1&tk=1icuh27qhgcsn80b&from=serp&vjs=3) | USGA | Basking Ridge, NJ 07920 | organizational skills, communication skills, Microsoft Office proficiency, ability to work under pressure, flexibility, problem-solving skills, knowledge of marketing channels, teamwork | 11-17 | <!-- JobID: BfyVRdRueX -->
 | [2025 Summer Capital Program Intern](https://www.indeed.com/viewjob?jk=568a8c7fb60e1d6d&tk=1icuhc5oaj73s8a8&from=serp&vjs=3) | EVERSOURCE | Westwood, MA | Advanced Excel, Power BI, Access, SQL, Tableau, Data quality and accuracy, Strong communications skills, Interpersonal skills, Mathematics capabilities, Conceptual/analytics capabilities, Self-directed work ethic, Collaborative work | 11-17 | <!-- JobID: BHUvMlmB7G -->

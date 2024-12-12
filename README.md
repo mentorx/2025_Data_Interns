@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 12-09_
+_Last updated: 12-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Intern - Deposit Operations (Summer 2025)](https://www.indeed.com/viewjob?jk=9132d0cfbcf42bc2&tk=1ierqenc7l51o89t&from=serp&vjs=3) | INTRUST Bank NA | Wichita, KS 67202 | Microsoft Office, communication skills, collaboration skills, project management, analytical skills, critical thinking, customer service, technical aptitude, attention to detail, workflow documentation | 12-11 | <!-- JobID: rZ3z9TP5NE -->
+| [2025 Summer Intern - Strategy & Planning](https://www.indeed.com/viewjob?jk=f083f6c286d33ae5&tk=1ies4ar2li96n87b&from=serp&vjs=3) | General Motors | Warren, MI | Analytical Thinking, Communication Skills, Market Research, Portfolio Management, Business Strategy Development, Data Analysis, Collaboration, Problem Solving | 12-11 | <!-- JobID: OX8ElHDcMC -->
+| [2025 U.S Summer Internship Program: Digital Analyst Intern](https://www.indeed.com/viewjob?jk=c27b7516a34d8edd&tk=1ierp5j9bj0qo8a4&from=serp&vjs=3) | Takeda Pharmaceutical | Hybrid work in Thousand Oaks, CA | AI tools, data analysis, reporting tools, Microsoft Office Suite, computer skills, internet skills, team player, attention to detail, verbal communication, written communication | 12-11 | <!-- JobID: ykLkwMKx7y -->
+| [Trainee, N.A. Distribution Research, Spring 2025](https://www.indeed.com/viewjob?jk=9f3f9333cc3f8f97&tk=1iesbn3pt295j01c&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | New York, NY | Excel capabilities, data analysis, communication skills, attention to detail, time-management skills | 12-11 | <!-- JobID: gnlBr3wdBf -->
 | [Vertex Summer 2025 Intern, Global Patient Safety Systems (Boston, MA)](https://www.indeed.com/viewjob?jk=d88e9e9422441ec4&tk=1iemvursn2c3404v&from=serp&vjs=3) | Vertex Pharmaceuticals | Boston, MA | Oracle SQL, PowerBI, Relational Database Management System (RDBMS), Structured Query Language (SQL), Microsoft applications (Excel, Powerpoint, Word, Teams, Outlook), Windows application environment, Problem-solving, Team collaboration, Motivation and work ethic, Enthusiasm to learn new skills | 12-09 | <!-- JobID: AdwtGMNu4f -->
 | [2025 Spring/Summer Internship - Data Scientist](https://www.indeed.com/viewjob?jk=db5f415554796e88&tk=1iemiarivi95f8a9&from=serp&vjs=3) | Perry Homes, LLC | Hybrid work in Houston, TX 77027 | Python, SQL, Data Science, Machine Learning, Analytical Thinking, Presentation Skills, Problem Solving, Microsoft Office Suite | 12-09 | <!-- JobID: o8jOdUGw3j -->
 | [Research Data Science Intern- Spring 2025- Silicon Valley, CA](https://www.indeed.com/viewjob?jk=9a0e99f0adcec0e4&tk=1iemiarivi95f8a9&from=serp&vjs=3) | Nissan | Santa Clara, CA 95051 | Python, SQL, Data Science Packages (pandas, scikit-learn), Machine Learning Frameworks (TensorFlow, JAX, PyTorch), Optimization Frameworks (cvxpy), Communication Skills, Teamwork Skills, Attention to Detail, Creativity, Passion for Sustainability | 12-09 | <!-- JobID: 31apmwFUuE -->

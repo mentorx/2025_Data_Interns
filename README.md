@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-29_
+_Last updated: 01-31_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Co-op - SEO, Content, and Creative Operations](https://www.indeed.com/viewjob?jk=b1a16b096ffc1b7b&tk=1iiq1ujb0j72t81g&from=serp&vjs=3) | Keurig Dr Pepper | Burlington, NC | SEO, Content Creation, Analytical Skills, Organizational Skills, Communication Skills, Microsoft Excel, Microsoft PowerPoint | 01-29 | <!-- JobID: jXSKYd27US -->
+| [2025 Summer Intern - Visualization Specialist](https://www.indeed.com/viewjob?jk=b2aaa756036a5ae8&tk=1iipoi450geds89p&from=serp&vjs=3) | Genentech | San Francisco, CA 94015 | JavaScript, D3.js, HTML/CSS, Python, Spotfire, Communication, Collaboration, Problem-solving | 01-29 | <!-- JobID: pYCA8vYyYY -->
+| [Program Analyst Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=ca5431e4c842a53c&tk=1iiq88n6bgmu0801&from=serp&vjs=3) | Parsons | Colorado Springs, CO | Business Analytics, Project Management, Microsoft Office (Excel, PowerPoint), Data Problem-Solving, Communication Skills, Workflow Analysis, Business Process Development, Self-Driven | 01-29 | <!-- JobID: zI0Z0maTEu -->
 | [Summer Co-op 2025 - Quality Systems](https://www.indeed.com/viewjob?jk=eb22cd64492e3abf&tk=1iiq4h2nth76m830&from=serp&vjs=3) | Keurig Dr Pepper | Burlington, NC | Data Analytics, Lean activities, Continuous Improvement, Project Management, Microsoft Excel, Microsoft PowerPoint, AI, Communication, Organizational skills | 01-29 | <!-- JobID: 384YDUjaEx -->
 | [2025 Summer Intern - Customer Success](https://www.indeed.com/viewjob?jk=cd7f81be51e6b12f&tk=1iiq538cvkgrk898&from=serp&vjs=3) | Workiva | Remote | Customer Service, Collaboration, Attention to Detail, Technical Proficiency (Excel, Word, Google Docs), Communication Skills, Leadership Skills, Initiative | 01-29 | <!-- JobID: PNfB2MogGL -->
 | [2025 Summer Intern – Clinical Pharmacology](https://www.indeed.com/viewjob?jk=5cd62314c99f2b33&tk=1iipo9io0j0rt87g&from=serp&vjs=3) | 89Bio | Hybrid work in San Francisco, CA 94111 | Machine Learning, Data Analysis, R Programming, Detail-oriented, Organizational Skills, Teamwork, Independent Work | 01-29 | <!-- JobID: uCBEKqaC2J -->

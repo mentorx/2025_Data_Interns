@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-09_
+_Last updated: 02-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Logistics OR Analytics Student - Dublin, OH (Fall 2025)](https://www.indeed.com/viewjob?jk=4a11e14c1a4cac52&tk=1ijm0u42bkgol80i&from=serp&vjs=3) | Cenovus Energy | Columbus, OH | Analytical skills, Microsoft Excel, Interpersonal skills, Judgment, Decision-making skills, Teamwork | 02-09 | <!-- JobID: ZPaoLLDWLJ -->
+| [Summer 2025 HR Data Intern](https://www.indeed.com/viewjob?jk=1680b29bf2acbbd4&tk=1ijm721uq2cb2001&from=serp&vjs=3) | Dairy Farmers of America | Kansas City, KS 66111 | Data Analysis, Power BI, Statistical Analysis, Communication, Problem Solving | 02-09 | <!-- JobID: fXQlMddtlu -->
+| [Summer 2025 Data Modeling and Analytics Intern](https://www.indeed.com/viewjob?jk=6360987b627b0643&tk=1ijm721uq2cb2001&from=serp&vjs=3) | Dairy Farmers of America | Kansas City, KS 66111 | Data Modeling, Data Analytics, PowerBI, Excel, Data Management, Data Cleaning, Communication, Teamwork | 02-09 | <!-- JobID: PV5JPCeu0G -->
+| [Undergrad Intern - Operations - Transformation and Digital Strategy - Data and AI (Summer 2025)](https://www.indeed.com/viewjob?jk=ee31d8d2389b5e01&tk=1ijm62b8ggcv88a0&from=serp&vjs=3) | Amgen | Remote in Washington, DC 20004 | Data Science, Machine Learning, Data Visualization, Python, Agile Development, Communication, Collaboration, Data Wrangling, Statistics, Problem Solving | 02-09 | <!-- JobID: eicao9TxKz -->
 | [Inventory Analyst Intern- Minneapolis, MN (Starting Summer, 2025)](https://www.indeed.com/viewjob?jk=0adf62a24cab87de&tk=1ijm980vij2op83i&from=serp&vjs=3) | Target | Minneapolis, MN 55403 | analytical skills, problem-solving skills, planning abilities, organizational abilities, leadership qualities, decision-making skills, communication skills, accountability, initiative, adaptability | 02-09 | <!-- JobID: kMxfHIPc8h -->
 | [Merch Replenishment Analyst Trainee Summer 2025](https://www.indeed.com/viewjob?jk=e8b53d2234c55f90&tk=1ijmb5fumiq75898&from=serp&vjs=3) | Meijer | Grand Rapids, MI 49525 | Data Analysis, Inventory Management, Merchandising, Forecasting, Collaboration, Retail Industry Knowledge, Office Computer Skills | 02-09 | <!-- JobID: tnQGnyX0XL -->
 | [Summer 2025 Dava Visualization Co-Op](https://www.indeed.com/viewjob?jk=2155c2c55ddb3a78&tk=1ijm6pfvd2c5q07o&from=serp&vjs=3) | Kraton Corporation | Houston, TX 77084 | Data Visualization, Microsoft Office, Communication Skills, Teamwork, Analytical Support, Project Management, Storytelling through Data, Technical Engineering Knowledge | 02-09 | <!-- JobID: rnvFBZWsq9 -->

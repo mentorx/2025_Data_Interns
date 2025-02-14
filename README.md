@@ -8,10 +8,16 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-11_
+_Last updated: 02-13_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer Co-op 2025 - Data Analyst](https://www.indeed.com/viewjob?jk=d1f0e4dbf6be1aa2&tk=1ik0f2qloi9v084a&from=serp&vjs=3) | Keurig Dr Pepper | Burlington, MA | Data Analytics, Microsoft Excel, PowerPoint, Tableau, Power BI, SQL, AGILE project management, Organizational skills, Communication skills, Attention to detail | 02-13 | <!-- JobID: UPWLGqdtOn -->
+| [Co-Op, Operations Analytics (Fall 2025)](https://www.indeed.com/viewjob?jk=f0bfb55891d24f89&tk=1ik0mdpm1ijv6886&from=serp&vjs=3) | Delta Airlines | Atlanta, GA | Data Analysis, Python, SQL, Microsoft Office Suite, Project Management, Verbal/Written Communication, Continuous Improvement Methodologies | 02-13 | <!-- JobID: 8kpxDtigWL -->
+| [Solaria Labs Data Science Co-op (July - December 2025)](https://www.indeed.com/viewjob?jk=6f5c1024c2695d45&tk=1ijr938h8k3f6875&from=serp&vjs=3) | Liberty Mutual | Boston, MA | Data Science, Machine Learning, Python, Analytical Skills, Communication Skills, Organizational Skills | 02-13 | <!-- JobID: yxySrQAb1c -->
+| [Co-op, Customer Experience (CX) Insights and Prioritization (Fall 2025)](https://www.indeed.com/viewjob?jk=bc2832f7418346ed&tk=1ijrf0rg7j56288l&from=serp&vjs=3) | Delta Airlines | Atlanta, GA | Data analysis, SQL, Microsoft Office (Excel, PowerPoint, Word), Statistical analysis, Coding (Python, SAS, etc.), Communication, Relationship building, Self-motivation, Intellectual curiosity, Results orientation | 02-13 | <!-- JobID: tjysh9lnOI -->
+| [Marketing Assistant \| Spring 2025 Grad](https://www.indeed.com/viewjob?jk=6eab5843abbb5519&tk=1ijr6cn2ak3fg893&from=serp&vjs=3) | Corgan | Dallas, TX 75202 | InDesign, Adobe Creative Suite, verbal communication, written communication, time management, organization, relationship building, collaboration, problem solving, self-starter | 02-13 | <!-- JobID: edJIsy0wbQ -->
+| [Sales Operations Coordinator Intern Summer 2025](https://www.indeed.com/viewjob?jk=bb1105240b9aa41b&tk=1ijrgtcfni9u280b&from=serp&vjs=3) | Luxottica Wholesale North America | Port Washington, NY 11050 | Customer service, Organizational skills, Project management, Microsoft Excel, Analytical skills, Communication skills, Interpersonal skills, Detail-oriented, Multi-tasking, Confidentiality | 02-13 | <!-- JobID: 5mV7IjmgyD -->
 | [Logistics OR Analytics Student - Dublin, OH (Fall 2025)](https://www.indeed.com/viewjob?jk=4a11e14c1a4cac52&tk=1ijm0u42bkgol80i&from=serp&vjs=3) | Cenovus Energy | Columbus, OH | Analytical skills, Microsoft Excel, Interpersonal skills, Judgment, Decision-making skills, Teamwork | 02-09 | <!-- JobID: ZPaoLLDWLJ -->
 | [Summer 2025 HR Data Intern](https://www.indeed.com/viewjob?jk=1680b29bf2acbbd4&tk=1ijm721uq2cb2001&from=serp&vjs=3) | Dairy Farmers of America | Kansas City, KS 66111 | Data Analysis, Power BI, Statistical Analysis, Communication, Problem Solving | 02-09 | <!-- JobID: fXQlMddtlu -->
 | [Summer 2025 Data Modeling and Analytics Intern](https://www.indeed.com/viewjob?jk=6360987b627b0643&tk=1ijm721uq2cb2001&from=serp&vjs=3) | Dairy Farmers of America | Kansas City, KS 66111 | Data Modeling, Data Analytics, PowerBI, Excel, Data Management, Data Cleaning, Communication, Teamwork | 02-09 | <!-- JobID: PV5JPCeu0G -->

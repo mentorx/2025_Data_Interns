@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-13_
+_Last updated: 02-15_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [SAP Student Training and Rotation (STAR) Program- Business Focus \[Spring / Summer Drexel Co-op 2025](https://www.indeed.com/viewjob?jk=e084ef6a4ce0c397&tk=1ik5nh6eajo0r80o&from=serp&vjs=3) | SAP | Newtown Square, PA 19073 | collaboration, communication, adaptability, initiative, curiosity, proactivity | 02-15 | <!-- JobID: aAn8n1gGG4 -->
+| [FX Integrated Promotions, Summer/Fall 2025](https://www.indeed.com/viewjob?jk=0f5b9bafcffcee23&tk=1ik0qjr8k2ckl08f&from=serp&vjs=3) | Disney | Los Angeles, CA | Experiential marketing, Consumer engagement, Social media understanding, Written communication, Verbal communication, Interpersonal communication, Microsoft Office proficiency, Research skills, Attention to detail, Multitasking | 02-13 | <!-- JobID: 8daIVHfvY3 -->
 | [Summer Co-op 2025 - Data Analyst](https://www.indeed.com/viewjob?jk=d1f0e4dbf6be1aa2&tk=1ik0f2qloi9v084a&from=serp&vjs=3) | Keurig Dr Pepper | Burlington, MA | Data Analytics, Microsoft Excel, PowerPoint, Tableau, Power BI, SQL, AGILE project management, Organizational skills, Communication skills, Attention to detail | 02-13 | <!-- JobID: UPWLGqdtOn -->
 | [Co-Op, Operations Analytics (Fall 2025)](https://www.indeed.com/viewjob?jk=f0bfb55891d24f89&tk=1ik0mdpm1ijv6886&from=serp&vjs=3) | Delta Airlines | Atlanta, GA | Data Analysis, Python, SQL, Microsoft Office Suite, Project Management, Verbal/Written Communication, Continuous Improvement Methodologies | 02-13 | <!-- JobID: 8kpxDtigWL -->
 | [Solaria Labs Data Science Co-op (July - December 2025)](https://www.indeed.com/viewjob?jk=6f5c1024c2695d45&tk=1ijr938h8k3f6875&from=serp&vjs=3) | Liberty Mutual | Boston, MA | Data Science, Machine Learning, Python, Analytical Skills, Communication Skills, Organizational Skills | 02-13 | <!-- JobID: yxySrQAb1c -->

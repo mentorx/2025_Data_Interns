@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-15_
+_Last updated: 02-17_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 - Emerging Talent Program - Marketing](https://www.indeed.com/viewjob?jk=0d46e4cd35f93db5&tk=1ikajbk7c24er08a&from=serp&vjs=3) | Tampa Bay Buccaneers | Tampa, FL 33603 | Microsoft Office, Communication skills, Organizational skills, Project ownership, Professional demeanor | 02-17 | <!-- JobID: JoUpUg6095 -->
+| [Class of 2025: Bertelsmann Data Science Rotational Program](https://www.indeed.com/viewjob?jk=3bbaf644a3664a02&tk=1ik5rf5b7jo1986g&from=serp&vjs=3) | Bertelsmann, Inc. | New York, NY 10019 | machine learning methods, database concepts, generative AI, Python, SQL, GitHub, problem-solving, collaboration, communication, English fluency | 02-15 | <!-- JobID: oC2fQFf2MR -->
 | [SAP Student Training and Rotation (STAR) Program- Business Focus \[Spring / Summer Drexel Co-op 2025](https://www.indeed.com/viewjob?jk=e084ef6a4ce0c397&tk=1ik5nh6eajo0r80o&from=serp&vjs=3) | SAP | Newtown Square, PA 19073 | collaboration, communication, adaptability, initiative, curiosity, proactivity | 02-15 | <!-- JobID: aAn8n1gGG4 -->
 | [FX Integrated Promotions, Summer/Fall 2025](https://www.indeed.com/viewjob?jk=0f5b9bafcffcee23&tk=1ik0qjr8k2ckl08f&from=serp&vjs=3) | Disney | Los Angeles, CA | Experiential marketing, Consumer engagement, Social media understanding, Written communication, Verbal communication, Interpersonal communication, Microsoft Office proficiency, Research skills, Attention to detail, Multitasking | 02-13 | <!-- JobID: 8daIVHfvY3 -->
 | [Summer Co-op 2025 - Data Analyst](https://www.indeed.com/viewjob?jk=d1f0e4dbf6be1aa2&tk=1ik0f2qloi9v084a&from=serp&vjs=3) | Keurig Dr Pepper | Burlington, MA | Data Analytics, Microsoft Excel, PowerPoint, Tableau, Power BI, SQL, AGILE project management, Organizational skills, Communication skills, Attention to detail | 02-13 | <!-- JobID: UPWLGqdtOn -->

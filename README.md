@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-17_
+_Last updated: 02-21_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Co-op, OnBoard Services (OBS) - Operations Optimization and Support (Summer 2025)](https://www.indeed.com/viewjob?jk=11f9480075255081&tk=1ikfsmlg1jo1782i&from=serp&vjs=3) | Delta Airlines | Atlanta, GA | Microsoft Office Suite, Power Platform (Power BI, Automate, Apps), Python, SQL, Data modeling / structures, ETL using AWS Lambda, Organizational skills, Project management, Verbal/written communication, Problem-solving, Team-oriented | 02-19 | <!-- JobID: s8Dt3oOQsx -->
+| [Marketing Intern - Summer 2025](https://www.indeed.com/viewjob?jk=c4dc5740cb6a1c16&tk=1ikg81qmogie787l&from=serp&vjs=3) | MCFARLANE AVIATION LLC | Baldwin City, KS 66006 | Communication skills, Organizational skills, Interpersonal skills, Problem-solving, Microsoft software applications, Teamwork, Self-starter, Attention to detail | 02-19 | <!-- JobID: DpGZ7Npr1D -->
+| [Harris Fellowship - Marketing Intelligence (Summer 2025)](https://www.indeed.com/viewjob?jk=d994e4cdd37b6e39&tk=1ikg9ba4dijsi883&from=serp&vjs=3) | Arbor Day Foundation | Lincoln, NE 68508 | Research and analytical skills, Data analysis tools (Excel, Power BI), Communication skills, Collaboration, Proactive and resourceful | 02-19 | <!-- JobID: tVqywPXRbE -->
+| [Graduate Research Assistant - Summer 2025](https://www.indeed.com/viewjob?jk=e2ea07014403289a&tk=1ikgc7e2ti9fb80d&from=serp&vjs=3) | The State of Florida | Tallahassee, FL 32399 | qualitative analysis, quantitative analysis, data analysis, Microsoft Excel, SPSS, team collaboration, research methods, financial analysis | 02-19 | <!-- JobID: EKWovLmQS4 -->
 | [2025 - Emerging Talent Program - Marketing](https://www.indeed.com/viewjob?jk=0d46e4cd35f93db5&tk=1ikajbk7c24er08a&from=serp&vjs=3) | Tampa Bay Buccaneers | Tampa, FL 33603 | Microsoft Office, Communication skills, Organizational skills, Project ownership, Professional demeanor | 02-17 | <!-- JobID: JoUpUg6095 -->
 | [Class of 2025: Bertelsmann Data Science Rotational Program](https://www.indeed.com/viewjob?jk=3bbaf644a3664a02&tk=1ik5rf5b7jo1986g&from=serp&vjs=3) | Bertelsmann, Inc. | New York, NY 10019 | machine learning methods, database concepts, generative AI, Python, SQL, GitHub, problem-solving, collaboration, communication, English fluency | 02-15 | <!-- JobID: oC2fQFf2MR -->
 | [SAP Student Training and Rotation (STAR) Program- Business Focus \[Spring / Summer Drexel Co-op 2025](https://www.indeed.com/viewjob?jk=e084ef6a4ce0c397&tk=1ik5nh6eajo0r80o&from=serp&vjs=3) | SAP | Newtown Square, PA 19073 | collaboration, communication, adaptability, initiative, curiosity, proactivity | 02-15 | <!-- JobID: aAn8n1gGG4 -->

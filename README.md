@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-03_
+_Last updated: 03-05_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Business Intelligence Intern (Hybrid) - Summer 2025](https://www.indeed.com/viewjob?jk=81074f9aea742af4&tk=1ilep3n2l2ce9000&from=serp&vjs=3) | American Greetings | Westlake, OH | SQL, Data Visualization (Tableau, Qlikview), Analytical Coding (R), Data Analysis, Communication Skills, Teamwork, Problem Solving, Microsoft Office | 03-03 | <!-- JobID: 1jA1ZGqFto -->
+| [Data Scientist Co-op - July 2025](https://www.indeed.com/viewjob?jk=71c21e3b303bec42&tk=1ilepm62nm92s86d&from=serp&vjs=3) | Wayfair | Boston, MA 02114 | SQL, Python, Quantitative Analysis, Data Visualization, Analytical Skills, Communication Skills, Business Acumen | 03-03 | <!-- JobID: 8Z7qaT66jE -->
+| [2025 Summer Intern, Marketing](https://www.indeed.com/viewjob?jk=07a065ca1fb9f89b&tk=1ilf7h72r21pi08t&from=serp&vjs=3) | Essex Property Trust | Hybrid work in Irvine, CA 92614 | Communication, Organizational skills, Multi-tasking, Detail-oriented, Interpersonal abilities, Proactive approach, Team-player attitude, Creative approach, Strong work ethic | 03-03 | <!-- JobID: 0CKchjILAd -->
 | [Planning Analyst Intern-Summer 2025](https://www.indeed.com/viewjob?jk=078e40201b232848&tk=1ilelac81k8j288n&from=serp&vjs=3) | Trove Brands | Lehi, UT 84043 | analytical skills, data analysis, Microsoft Excel, data visualization tools, communication skills, teamwork skills, multitasking, business planning, supply chain | 03-03 | <!-- JobID: pWVdXaGzye -->
 | [USA - Assurance - Data and Intelligence Delivery - Intern - Summer 2025](https://www.indeed.com/viewjob?jk=decc509275167ddc&tk=1ilf1lqkogqnp8fk&from=serp&vjs=3) | EY | Houston, TX 77010 | Data Analysis, Data Visualization, Critical Thinking, Communication, Client Service | 03-03 | <!-- JobID: DHHz08ETWT -->
 | [Marketing Strategy Intern, MBA – Summer 2025](https://www.indeed.com/viewjob?jk=1ebfe30ddff28a5e&tk=1ileva1h9m22o864&from=serp&vjs=3) | Illumination | Hybrid work in Santa Monica, CA | Marketing Strategy, Market Research, Media Planning, Branding Initiatives, Digital Initiatives, Presentation Skills, Collaboration | 03-03 | <!-- JobID: vjp7WFt5Ro -->

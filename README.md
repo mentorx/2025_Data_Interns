@@ -8,10 +8,15 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-31_
+_Last updated: 04-01_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [IT/DATA ANALYTICS INTERN   SUMMER 2025](https://www.indeed.com/viewjob?jk=61230ca4cdb9fca9&tk=1inmtdlv424er001&from=serp&vjs=3) | Sportsman's Warehouse | West Jordan, UT 84088 | Data analysis tools, Analytical skills, Problem-solving skills, Microsoft Excel, SQL, Python, Power BI, Snowflake, Communication skills, Teamwork abilities | 03-31 | <!-- JobID: QG3EAKf52r -->
+| [Clinical Informatics Intern \[Summer 2025 College COACH program](https://www.indeed.com/viewjob?jk=9fff8525fc2cabec&tk=1inn00fs1jlh987v&from=serp&vjs=3) | Boston Children's Hospital | Boston, MA 02115 | data analytics, communication, collaboration, organizational skills, analytical skills, initiative | 03-31 | <!-- JobID: IlP25aN1Hi -->
+| [Commercial Intern, Marketing Sales Analytics - Summer 2025](https://www.indeed.com/viewjob?jk=61b74f97fc08d301&tk=1innac1n2jlh082i&from=serp&vjs=3) | Tropicana Brands Group | Chicago, IL 60607 | data analysis, Excel skills, verbal communication, written communication, organizational skills, project management, sales processes understanding | 03-31 | <!-- JobID: BM0HaxVF3p -->
+| [Business Intelligence Intern - Spring/Summer 2025](https://www.indeed.com/viewjob?jk=b630aad1a3634ef3&tk=1inmu10ojia52820&from=serp&vjs=3) | WSP | Baton Rouge, LA 70809 | Business Analysis, Data Analysis, Communication Skills, Technical Writing, Office Automation, Project Management, Detail-Oriented, Collaboration | 03-31 | <!-- JobID: 4FSKCbp7KD -->
+| [MBA Worldwide Distribution Analytics Intern, MPG - Distribution – Summer 2025](https://www.indeed.com/viewjob?jk=b2ca185130ad79d4&tk=1inn20lrsjdle800&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Culver City, CA | analytical skills, Excel, database management, interpersonal skills, attention to detail, flexibility, teamwork, knowledge of movies | 03-31 | <!-- JobID: qK0vPR0bEq -->
 | [2025 Summer Business Process & Data Analysis Intern](https://www.indeed.com/viewjob?jk=eba703232953ff1e&tk=1inhmpjc2ljd986g&from=serp&vjs=3) | EVERSOURCE | Hartford, CT | Business process analysis, System documentation, Data reporting, Process improvement, Analytical skills, Microsoft Suite (Excel, Power BI), Communication skills, Process mapping tools (Visio, Lucidchart, Miro), Organizational skills | 03-29 | <!-- JobID: hJ0pgRED39 -->
 | [Enterprise Sponsorship & Experiential Marketing Internship 2025](https://www.indeed.com/viewjob?jk=7efce686a5b5f227&tk=1inhqctfehif082i&from=serp&vjs=3) | Citizens | Westwood, MA 02090 | Leadership, Communication, Problem-solving, Organizational skills, Microsoft Office proficiency, Social media initiatives | 03-29 | <!-- JobID: u1tYLSKlaN -->
 | [Business Intelligence Intern- Summer 2025](https://www.indeed.com/viewjob?jk=c77e3eef8a6af2f9&tk=1inho3ulhj1e987d&from=serp&vjs=3) | WSP | Oakland, CA 94612 | Excellent verbal and written communication skills, Strong interpersonal skills, Self-motivated, Ability to work in a team environment, Ability to analyze call trends, Ability to document process improvements, Bilingual (Spanish, Cantonese, or Mandarin) | 03-29 | <!-- JobID: 9TvdR1VF6t -->

@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 04-11_
+_Last updated: 04-15_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Co-op, Flight Safety Data Science (Fall 2025)](https://www.indeed.com/viewjob?jk=3aad6604f838b800&tk=1ioo5ubungqrr87h&from=serp&vjs=3) | Delta Airlines | Atlanta, GA | SQL, Python, R, Data Analysis, Machine Learning, Project Management, Communication Skills, Interpersonal Skills | 04-13 | <!-- JobID: h4yhVYkJUa -->
+| [Summer 2025 Product Marketing Intern](https://www.indeed.com/viewjob?jk=7d5795fa25148aa2&tk=1iooe2pnlhico85i&from=serp&vjs=3) | Nu Skin | Provo, UT 84601 | Microsoft Word, Excel, PowerPoint, Project management, Social media marketing, Research | 04-13 | <!-- JobID: vFvBtKm8uj -->
+| [Data Analyst Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=6bc515b45358bbe4&tk=1ioofrke0iq6q87q&from=serp&vjs=3) | Skechers USA, Inc. | Manhattan Beach, CA 90266 | analytical skills, Excel proficiency, data management principles, teamwork, attention to detail, organizational skills, communication skills, Power BI, Power Pivot | 04-13 | <!-- JobID: PeGX55e2cD -->
+| [Revenue Operations Intern - Summer 2025](https://www.indeed.com/viewjob?jk=5b29bcb5eefb89d6&tk=1iooeqsn3j1op83e&from=serp&vjs=3) | HCSS | Sugar Land, TX | analytical skills, problem-solving skills, attention to detail, Microsoft Excel, Google Sheets, Salesforce, data analysis | 04-13 | <!-- JobID: 5zSUURzo8K -->
 | [Intern, SQL & Data Analytics, Summer 2025](https://www.indeed.com/viewjob?jk=a89c20cbf2258864&tk=1ioj3v1o9i02i801&from=serp&vjs=3) | PrimeRevenue, Inc. | Atlanta, GA 30308 | SQL, Data Analysis, Tableau, Snowflake, Problem-solving, Analytical Skills, Communication Skills | 04-11 | <!-- JobID: 3AxIHYQFvY -->
 | [Summer Intern 2025 - Marketing & Communications](https://www.indeed.com/viewjob?jk=3c9df35ef193161b&tk=1iojc243f235506d&from=serp&vjs=3) | Steampunk | McLean, VA 22102 | Project Management, Digital Tools and Technology, Communication Skills, Collaboration Skills, Attention to Detail, Creative Thinking, Interpersonal Skills, Presentation Skills, Problem Solving Skills | 04-11 | <!-- JobID: lgxTUAdF4q -->
 | [Vertex Fall 2025 Co-op, Operational Excellence (Providence, RI)](https://www.indeed.com/viewjob?jk=f94a8870f542b0c3&tk=1ioh34driggm6819&from=serp&vjs=3) | Vertex Pharmaceuticals | Providence, RI | Lean/6σ competencies, Data analysis, Communication skills, Collaboration skills, Office 365 Suite, Root cause analysis, Process standardization, Documentation skills | 04-11 | <!-- JobID: HdhvHO9L82 -->

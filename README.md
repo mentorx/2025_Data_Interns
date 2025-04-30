@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 04-27_
+_Last updated: 04-29_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Data & Analytics Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=4b91e7bd81a34cb1&tk=1ipsg67tj2cee00m&from=serp&vjs=3) | The Bank of Missouri | Perryville, MO 63775 | data analysis, data visualization tools, data cleaning, Informatica, Snowflake, collaboration, presentation skills, planning and organizing projects | 04-27 | <!-- JobID: CE2CD1OHkh -->
+| [Risk Detection and Compliance Intern - Summer 2025](https://www.indeed.com/viewjob?jk=065af01210cd208d&tk=1ipshbohj2bta00e&from=serp&vjs=3) | Rocket | Detroit, MI 48226 | fraud detection, data analysis, compliance, attention to detail, communication skills, organization, prioritization, teamwork, independent work | 04-27 | <!-- JobID: GXWwUQ7Jpi -->
+| [Marketing Coordinator Intern - Summer 2025](https://www.indeed.com/viewjob?jk=55950f8661eff0fb&tk=1ipsjgg8r2ce4032&from=serp&vjs=3) | Apex Service Partners | Irving, TX 75038 | Marketing, Direct Marketing, Digital Marketing, Community Engagement, Branding, Project Coordination, Reporting & Insights, Communication, Organization, Time Management, Google Suite, Canva, Social Media Platforms | 04-27 | <!-- JobID: LtPebVQfPQ -->
 | [Data Analyst Intern - Summer 2025](https://www.indeed.com/viewjob?jk=25994a2afe47984d&tk=1ipn6h8u32cee061&from=serp&vjs=3) | Federal Reserve Bank of Kansas City | Kansas City, MO | data collection, data cleansing, data analysis, data validation, statistical analysis, data quality assurance, ETL processes, data visualization tools (Tableau, PowerBI), SQL, Python, analytical skills, problem solving, initiative, leadership skills, effective communication, interpersonal skills, teamwork, proficient computer skills (Word, Excel, PowerPoint) | 04-25 | <!-- JobID: PmKanPNSyP -->
 | [Data Intern - Summer 2025 Internship \[Remote](https://www.indeed.com/viewjob?jk=950667bbefa874e1&tk=1ipnbpg6pj3gp87a&from=serp&vjs=3) | Fluz | Remote | Excel, SQL, Python, Data Science, Computer Science, Engineering, Statistics, Business, Communication, Collaboration, Curiosity, Drive, Interest in fintech or social products | 04-25 | <!-- JobID: kSFWHdvFNA -->
 | [Data & Analytics Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=e356f8b46bcb1794&tk=1ipne22mflvtb8bb&from=serp&vjs=3) | The Bank of Missouri | Perryville, MO 63775 | data analysis, data visualization, data cleaning, report creation, dashboard development, collaboration, communication, planning and organizing, Informatica, Snowflake | 04-25 | <!-- JobID: gBRbxx3h8s -->

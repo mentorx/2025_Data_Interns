@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-05_
+_Last updated: 05-07_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Marketing Communications Internship](https://www.indeed.com/viewjob?jk=e16cd1f3c5af0768&tk=1iqgrquehivbe84s&from=serp&vjs=3) | Virtual, Inc. | Hybrid work in Wakefield, MA 01880 | written and verbal communication, social media platforms, content creation, Microsoft Office Suite, time management, teamwork, problem solving, attention to detail, leadership, research skills, organization, analytical skills, innovation, creativity, work ethic, Canva | 05-05 | <!-- JobID: qZThVmHFTJ -->
 | [Intern, Purchasing Digital Services - Fall 2025](https://www.indeed.com/viewjob?jk=565b9cb45092c338&tk=1iqbjtvhs2ceu016&from=serp&vjs=3) | BMW | Mountain View, CA | Microsoft Office, Excel, PowerPoint, SAP, Business fluent English, German language, Ability to work independently, Teamwork, Market research, Contract setup, Presentation preparation, Event organization, Strategic preparation of negotiations, Conscientiousness, Reliability, Responsibility, Self-motivation, Creative thinking | 05-03 | <!-- JobID: HiTopNai7x -->
 | [2025 Education Data Analyst: Fall](https://www.indeed.com/viewjob?jk=dabdc0a4fc11a9cb&tk=1iqbnjuc72ceu051&from=serp&vjs=3) | Crystal Bridges | Bentonville, AR 72712 | data analysis, research, statistics, mathematics, organizational skills, interpersonal skills, independent work, teamwork, confidentiality | 05-03 | <!-- JobID: SuPdVDUYl4 -->
 | [2025 Marketing Intern: Fall](https://www.indeed.com/viewjob?jk=52008bbe6387e255&tk=1iqbu8ou622tv06p&from=serp&vjs=3) | Crystal Bridges | Bentonville, AR 72712 | written communication, verbal communication, computer and internet research, marketing strategy, project management, brand management, reporting and analysis, planning and coordination, ability to accept constructive critique | 05-03 | <!-- JobID: AMYUnUCnY1 -->

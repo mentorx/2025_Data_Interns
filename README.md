@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-19_
+_Last updated: 05-21_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Youth Soccer Marketing Intern - Summer 2025](https://www.indeed.com/viewjob?jk=1c5c2fcf58d45d3a&tk=1irq0qhfsljei88r&from=serp&vjs=3) | Sporting Kansas City | Kansas City, MO 64105 | Marketing campaigns development and execution, Social media content management (Facebook, Instagram, Twitter), Graphic design tools (Adobe Creative Suite), Microsoft Office Suite proficiency, Written and verbal communication, Organizational skills, Interpersonal skills, Ability to work independently and collaboratively, Event support and promotional activities, Campaign performance analysis, Youth sports knowledge and passion for soccer, English fluency (speak, read, write) | 05-21 | <!-- JobID: P7sML40UCI -->
+| [Marketing Intern FALL 2025 (Paid Internship)](https://www.indeed.com/viewjob?jk=93de66d20ff8ab9f&tk=1irq767ongsub801&from=serp&vjs=3) | Terrasmart | Fort Myers, FL 33913 | event planning and execution, marketing campaigns, client and community engagement, social media management, graphic and creative design, website editing, communication skills, organizational skills, Microsoft Office, Google Docs, teamwork, ability to work independently, attention to detail, creativity | 05-21 | <!-- JobID: eHVxWHIHc4 -->
 | [Marketing Intern (summer 2025)](https://www.indeed.com/viewjob?jk=e13fd47328c8b34a&tk=1irl8sordiju082e&from=serp&vjs=3) | Neville Chemical Company | Pittsburgh, PA 15225 | Marketing, Digital marketing, Content creation, Market research, Competitor analysis, Microsoft Office, Written communication, Verbal communication, Organization, Planning | 05-19 | <!-- JobID: apqu1g5jsr -->
 | [Performance & Incentives Analytics Intern - 2025 Project Intern (BS/MS)](https://www.indeed.com/viewjob?jk=017398b0efa960ce&tk=1irl1pdtkia5f85t&from=serp&vjs=3) | TikTok | San Jose, CA | analytical skills, market research, data analysis, communication, team collaboration, compensation policy design, benchmarking, data preparation, policy evaluation | 05-19 | <!-- JobID: FdExguMiVw -->
 | [Intern, Medical Education (Fall 2025)](https://www.indeed.com/viewjob?jk=cfea785681def87a&tk=1irks1umhge6i82e&from=serp&vjs=3) | Axogen | Tampa, FL 33602 | Communication skills, Advanced Excel skills, Detail oriented, Data compilation and analysis, Project assistance and coordination | 05-19 | <!-- JobID: rGUF5JU3Ji -->

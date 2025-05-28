@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-25_
+_Last updated: 05-27_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Fall 2025, Research Internship, Global Economy and Development ( Job ID 2025-3653)](https://www.indeed.com/viewjob?jk=d22f5c13176ae787&tk=1is9g5oh9j55e86i&from=serp&vjs=3) | The Brookings Institution | Washington, DC 20036 (Downtown area) | analytical thinking, econometrics, background research, data gathering, data cleaning, data manipulation, basic statistical analysis, running regressions, creating tables and figures, Excel, Stata, written communication, verbal communication, interest in public policy, interest in economics or finance | 05-27 | <!-- JobID: FDy4QUMPku -->
+| [Sports Management Internship - Fall 2025](https://www.indeed.com/viewjob?jk=b11319fde480888e&tk=1is9e47sujdr48g1&from=serp&vjs=3) | Volo Inc. | Baltimore, MD 21230 (Locust Point area) | social media marketing, content development, email marketing, digital sponsorship activations, grassroots marketing, sales calls, league operations, data entry, customer service, communication skills, teamwork, self-direction, graphic design, multitasking, problem solving, punctuality | 05-27 | <!-- JobID: IOdWDHHEMa -->
 | [2025 Summer Internship](https://www.indeed.com/viewjob?jk=ae22f9d118a4aa1d&tk=1is4adssjgmt783n&from=serp&vjs=3) | Direct Digital Holdings | Houston, TX 77027 (River Oaks area) | Business, Marketing, Finance, Computer Science, Research, Presentation, Communication | 05-25 | <!-- JobID: UnpiSjdnU8 -->
 | [Marketing Intern - Summer 2025](https://www.indeed.com/viewjob?jk=99a90cd31073a8d0&tk=1irv5frv3j55n8ba&from=serp&vjs=3) | Salas O'Brien, Inc. | Hybrid work in Cincinnati, OH 45246 | Marketing techniques, Verbal and written communication, MS Office, Adobe Creative Suite, InDesign, Time management, Project ownership, Organizational skills, Creativity, Self-motivation, Cooperation, Positive work attitude | 05-23 | <!-- JobID: 1G8g9zg3S5 -->
 | [Co-op, Crew Resources - Data Analyst (Fall 2025)](https://www.indeed.com/viewjob?jk=c4a28220c5d97ff7&tk=1irv8bf5sm20o871&from=serp&vjs=3) | Delta Airlines | Atlanta, GA | SQL or Database querying tools including ETL and data modeling, Scripting programming language (Python, Bash, PowerShell), Process improvement methodologies, Excel including VBA, Project management skills, Organizational skills, Verbal and written communication skills, Teamwork, Outside of the box thinking, Personal management skills | 05-23 | <!-- JobID: ZPLMEQYAvY -->

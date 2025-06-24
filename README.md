@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-21_
+_Last updated: 06-23_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Internship - Website Marketing - Hybrid M-W in office remote on Thursdays and off on Fridays](https://www.indeed.com/viewjob?jk=498a028fc1fa3b14&tk=1iueumqkqkgrh890&from=serp&vjs=3) | Pet Supplies Plus | Remote in Livonia, MI 48152 | Website content updating, Sitecore XM Cloud, Digital asset management, Zmags for interactive page creation, Quality assurance, SEO basics (meta titles, descriptions, image alt text), Google Analytics or Sitecore Experience Analytics, Research and analysis of industry trends, Team collaboration, Communication | 06-23 | <!-- JobID: mmIQthL4Dw -->
+| [Innovation & Digital Health Accelerator Internship (Fall 2025)](https://www.indeed.com/viewjob?jk=5a2a59c1c07cc3ef&tk=1iu9rn2j7g36288t&from=serp&vjs=3) | Boston Children's Hospital | Hybrid work in Boston, MA 02115 | epidemiology, data entry, data analysis, MS Office, Google Drive, Slack, Github, communication, data sourcing and vetting, data quality assurance | 06-21 | <!-- JobID: lBvtfBXh5Y -->
 | [Business/Human Resources Studies Student with a Passion for AI (Summer Intern 2025)](https://www.indeed.com/viewjob?jk=b08667562ec74873&tk=1iu9ppudch74v85f&from=serp&vjs=3) | Loftware, Inc. | Hybrid work in Portsmouth, NH 03801 | AI technologies, Analytical skills, Problem-solving skills, Research skills, Communication skills, Collaboration, Organizational skills, Presentation skills, Business process understanding | 06-21 | <!-- JobID: B0Zpo0Oy4Y -->
 | [Business Analysis Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=db7d99508687bd6c&tk=1iu9qh72d22p405o&from=serp&vjs=3) | Savas Management Center LLC | Scottsdale, AZ 85254 (Paradise Valley area) | Analytical skills, Problem-solving skills, Excel proficiency, Interest in SQL, Interest in Python, Interest in Tableau, Clear communication, Attention to detail, Curious mindset, Willingness to learn | 06-21 | <!-- JobID: H9EUcFykGt -->
 | [2025-2026 Summer Interns](https://www.indeed.com/viewjob?jk=b0228980f0d526b9&tk=1iu9rv92ii0io83g&from=serp&vjs=3) | Boston Collegiate Charter School | Dorchester, MA 02125 (North Dorchester area) | Analytical skills, Data analysis, Research skills, Communication skills, Organizational skills, Collaboration, Self-reflection, Passion for education, Ability to support administrative tasks, Tutoring | 06-21 | <!-- JobID: YDdXBo5bbV -->

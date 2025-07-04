@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 07-01_
+_Last updated: 07-03_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [UConn Stamford Digital Technology Center Intern - Fall 2025](https://www.indeed.com/viewjob?jk=a4267c24879f74c9&tk=1iv8mc38igbmm852&from=serp&vjs=3) | Synchrony | Stamford, CT 06902 (Turn of River area) | Agile Scrum, Communication skills, Analytical mindset, Problem-solving skills, Technical and non-technical collaboration, Attention to detail, Software development, API and User Interface development, Android and iOS development, RPA & Machine Learning, Data analysis, User Experience Design | 07-03 | <!-- JobID: ixA1hG5OXP -->
+| [Hybrid Marketing Administrative Intern (Fall 2025 - August 18 Start)](https://www.indeed.com/viewjob?jk=a2173a39c6e20fbf&tk=1iv8m1hpt294q07o&from=serp&vjs=3) | MVC Orlando Telesales | Orlando, FL 32836 | Customer service, Communication, Hospitality knowledge, Sales experience, Marketing knowledge, Business professionalism, Time management, Teamwork | 07-03 | <!-- JobID: FkemdaVTqR -->
 | [Product Management Intern - Fall 2025](https://www.indeed.com/viewjob?jk=4b4bf5f917a10255&tk=1iv3h4ctkgb0u85v&from=serp&vjs=3) | HCSS | Houston, TX | Product Management, Communication, Teamwork, Analytical Thinking, Customer Feedback Analysis, Data Analysis, Documentation, Collaboration, Salesforce or CRM tools, Agile Product Management, Construction Industry Knowledge | 07-01 | <!-- JobID: lFaTXdDs7F -->
 | [Intern, Marketing Communications - Summer 2025](https://www.indeed.com/viewjob?jk=901aa391f4080311&tk=1iv3j45nhgics87e&from=serp&vjs=3) | PSEMI CORPORATION | San Diego, CA | Microsoft Office (PowerPoint, Word, Excel, Outlook), Attention to detail, Intermediate to advanced computer skills, Administrative skills, Writing and editing skills, Experience with Pardot, Course work in Marketing, Corporate Communications or related | 07-01 | <!-- JobID: 2TgQNmBRXA -->
 | [Data Analyst Intern (Fall 2025)](https://www.indeed.com/viewjob?jk=9bb7a7aef374b0b5&tk=1iv3h6kkli9d8898&from=serp&vjs=3) | Cloudflare | Austin, TX | Excel, SQL, Tableau, Data visualization tools (Looker, Power BI), Data analysis, Dashboard building, Data cleaning and organizing, Communication, Collaboration, Organizational skills, Self-starter mindset | 07-01 | <!-- JobID: O0hXbC84ze -->

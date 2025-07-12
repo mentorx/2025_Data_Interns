@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 07-09_
+_Last updated: 07-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Computing Undergraduate Student Intern - Fall 2025](https://www.indeed.com/viewjob?jk=7624e0e00b4958f5&tk=1ivton8co22m0079&from=serp&vjs=3) | Lawrence Livermore National Laboratory | Livermore, CA | computational science, numerical methods, mathematics, computer science, machine learning, computer vision, data gathering and analysis, research support, problem-solving skills, effective communication, teamwork, Microsoft Word, Microsoft Excel, Microsoft PowerPoint | 07-11 | <!-- JobID: 8FWDPpGgS0 -->
+| [Co-op, In-Flight Services Program Integration Project Coordinator - JFK, NYC (Fall 2025)](https://www.indeed.com/viewjob?jk=b8cd6821b4463241&tk=1ivtqr58bgc1g855&from=serp&vjs=3) | Delta Airlines | New York, NY | project management, data analysis, analytical skills, Microsoft Office Suite, Sharepoint, Smartsheet, Power BI, problem-solving, collaboration, presentation development, time management, statistical analysis, modeling (linear regression, segmentation, predictive regression, operations research, machine learning), curiosity, flexibility, sense of humor, drive for results, attention to detail | 07-11 | <!-- JobID: 4e3wUip3bA -->
 | [Marketing Intern - NY Campus Events (2025-26)](https://www.indeed.com/viewjob?jk=55a2e9528259b5fb&tk=1ivo51ulli9u3811&from=serp&vjs=3) | Achievement First Network Support | New York, NY | Content Creation, Social Media Management (Instagram, LinkedIn), Event Planning and Management, Leadership Experience, Communication Skills, Campus Outreach and Partnership Building, Storytelling | 07-09 | <!-- JobID: AbEamhrarV -->
 | [Pathway Intern - Product/Project Management - Starting August 2025](https://www.indeed.com/viewjob?jk=b6db82c29d1834b8&tk=1ivo4bm3agikq87n&from=serp&vjs=3) | Nelnet | Lincoln, NE | Salesforce or other CRM-related technology, Communication (written, verbal, interpersonal), Problem solving, Self-motivation and accountability, Time management, Adaptability to ambiguity and multiple rotations, Data collection and report preparation, Benchmark analysis, Product research | 07-09 | <!-- JobID: 9TlyDXg155 -->
 | [Intern, AI & Data Analytics - Fall 2025](https://www.indeed.com/viewjob?jk=027fd1d45a793d02&tk=1ivo74v94k8ja801&from=serp&vjs=3) | BMW | Woodcliff Lake, NJ | Data Analytics, Machine Learning, Dashboard Development, Data Analysis, Artificial Intelligence (AI), Communication Skills, Creativity, Self-driven, Independent Work | 07-09 | <!-- JobID: LFBceAfgwk -->

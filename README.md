@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 08-11_
+_Last updated: 08-17_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [College Intern I - Fall 2025 - Digital Products](https://www.indeed.com/viewjob?jk=bdd978cc83d30c36&tk=1j2sjoc2ogip789j&from=serp&vjs=3) | Lifetime Benefit Solutions | United States | Verbal communication, Written communication, Teamwork / collaboration, Analytical skills, Problem-solving, Microsoft Office Suite, Desktop computer proficiency, Presentation skills, Organizational and prioritization skills, Multitasking / time management, Attention to detail, Proactive / self-motivated work style, Ability to work independently, Ability to communicate to technical and non-technical audiences, Adherence to privacy and corporate code of conduct | 08-17 | <!-- JobID: JCxwCJvlrp -->
+| [Sales and Marketing Intern - Fall 2025](https://www.indeed.com/viewjob?jk=1c076f600720a81f&tk=1j2sl9c8mi95d83p&from=serp&vjs=3) | Amphenol Borisch Technologies | Grand Rapids, MI 49512 | Marketing, Graphic Design / Visual Design, Market Research, Data Visualization / Infographics, Microsoft Excel, Microsoft PowerPoint, Branding / Brand Standards, Social Media / Digital Channels, Administrative Support, Attention to Detail, Organizational Skills, Creativity / Concept Development, Presentation Support (trade shows, leadership presentations), Communication (written & verbal) | 08-17 | <!-- JobID: WIZpDbtuDR -->
 | [GIS Intern – Winter 2025](https://www.indeed.com/viewjob?jk=d76b6ba7e574fb1e&tk=1j2d6dtd0gbki80j&from=serp&vjs=3) | VHB | Hybrid work in Virginia Beach, VA 23462 | Esri ArcGIS Pro and Online, GIS mapping production, Data analysis, Python, R, SQL, Arcade expressions, Microsoft Excel, Written communication, Verbal communication, Interpersonal communication, Collaboration, Independent work | 08-11 | <!-- JobID: 8xVAsKumew -->
 | [2025 Fall Analytics Intern](https://www.indeed.com/viewjob?jk=f4fe6bf430466873&tk=1j2d4i5sbgfad864&from=serp&vjs=3) | REsurety, Inc. | Hybrid work in Boston, MA 02109 | data manipulation, basic coding (Python, R, GUI coding like KNIME / Alteryx), strong research skills, strong communication skills, self-motivated, detail-oriented, interest in clean energy | 08-11 | <!-- JobID: XOXhtsvsio -->
 | [2025 Fall Operations Intern](https://www.indeed.com/viewjob?jk=0b33f68e060d7a99&tk=1j2d4i5sbgfad864&from=serp&vjs=3) | REsurety, Inc. | Hybrid work in Boston, MA 02109 | Data Analytics, Reporting, Microsoft Office, Google Workspace, Salesforce, Adaptability, Flexibility, Communication, Research, Teamwork, Learning ability | 08-11 | <!-- JobID: zinjVDCH51 -->
